@@ -7,6 +7,7 @@ http://htmlpreview.github.io/
 
 Just paste the link of the repo on this page and the html would be viewable. 
 
-For eg, Link for DatasetII
-http://htmlpreview.github.io/?https://github.com/sbanerj3/EDA-with-ggplot/blob/master/EDA-Assignment-Diamonds-Dataset-II.html
+For eg, Link for DatasetIII
+
+http://htmlpreview.github.io/?https://github.com/sbanerj3/EDA-with-ggplot/blob/master/EDA-Assignment-Diamonds-Dataset-III.html
 
